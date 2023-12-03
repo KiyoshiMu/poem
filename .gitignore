@@ -1,0 +1,7 @@
+en_cache
+ja_cache
+*.png
+*.jpg
+*.ttf
+*.json
+!en_poem
